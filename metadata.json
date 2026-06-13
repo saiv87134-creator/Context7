@@ -1,0 +1,6 @@
+{
+  "name": "محلل ومستعرض مباريات الذكاء الاصطناعي - AI Football Hub",
+  "description": "منصة رياضية متقدمة لعرض نتائج المباريات الحية والتحليلات التكتيكية المولدة بالذكاء الاصطناعي، مع إحصائيات تفصيلية ومواقع إعلانية مخصصة لأدسنس ومهيأة لمحركات البحث جوجل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
